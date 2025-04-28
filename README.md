@@ -1,2 +1,3 @@
 # FirstRepo_MarcyLab
-First Marcy Lab repo
+My first repository for the Marcy Lab.
+
