@@ -12,4 +12,9 @@ projects in the future!
 - 📚 I enjoy reading comics.
 - 🧑🏾‍💻 I am a huge tech enthusiast.
 
+## Check This Out!
+![My Image](https://www.istockphoto.com/photo/global-communication-network-concept-gm1092964846-293297247)
+
+## Check This Out!
+Visit my favorite website: [Space-Elevator](https://neal.fun/space-elevator/)
   
